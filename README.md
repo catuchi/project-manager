@@ -1,7 +1,8 @@
 
-# Reminisce
+# Goal Setter
 
-Full stack social media application with Google authentication, pagination, comments, search and filtering capabilities
+Full stack goals planner application
+
 ## Tech Stack
 
 **Client:** React, Redux, Bootstrap 
