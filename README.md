@@ -1,31 +1,34 @@
+# Project Manager
 
-# Goal Setter
-
-Full stack goals planner application
+Full stack project management system to manage projects and clients.
 
 ## Tech Stack
 
-**Client:** React, Redux, Bootstrap 
+**Client:** React, Redux, Apollo, Bootstrap 
 
-**Server:** Node, Express
+**Server:** Node, Express, GraphQl, Express-graphql
 
 **Data:** MongoDB, Mongoose, Mongo Atlas, Mongo Compass
 
 **Others:** Axios, JWT
 
 
+## Demo
+
+This app is deployed on Heroku. https://projectmgmtmernapp.herokuapp.com/
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone git@github.com:catuchi/goal-setter.git
+  git clone git@github.com:catuchi/project-manager.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd goal-setter
+  cd project-manager
 ```
 
 Install dependencies
@@ -34,10 +37,17 @@ Install dependencies
   npm install
 ```
 
-Start the server & client concurrently
+Start the server
 
 ```bash
   npm run dev
+```
+
+Start the client
+
+```bash
+  cd client
+  npm start
 ```
 
 ## Related
@@ -60,4 +70,3 @@ Here are some other cool projects
 ## Authors
 
 - Chibu Atuchi - [@catuchi](https://www.github.com/catuchi)
-
