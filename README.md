@@ -14,9 +14,6 @@ Full stack goals planner application
 **Others:** Axios, JWT
 
 
-## Demo
-
-This app is deployed on Heroku. https://projectmgmtmernapp.herokuapp.com/
 ## Run Locally
 
 Clone the project
